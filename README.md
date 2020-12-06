@@ -1,5 +1,6 @@
 # contact
-A LIST OF CONTACTS!
+A LIST OF CONTACTS Project!
+
 It is a A List of Contacts application where we can add
 Name and phone number to the database and also can
 delete particular contact.I used the JavaScript framework
