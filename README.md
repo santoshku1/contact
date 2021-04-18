@@ -1,5 +1,7 @@
 # contact
-A LIST OF CONTACTS Project!
+
+
+## A LIST OF CONTACTS Project!
 
 It is a A List of Contacts application where we can add
 Name and phone number to the database and also can
